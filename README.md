@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranishashrestha&label=Profile%20views&color=0e75b6&style=flat" alt="pranishashrestha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranishashrestha" alt="pranishashrestha" /></a> </p>
-
 - 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **react, bootstrap, figma or literally anything**
